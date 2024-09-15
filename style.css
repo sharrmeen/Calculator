@@ -27,9 +27,9 @@ body{
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    margin: 5px;
+    /* margin: 5px; */
     margin-top: 20px;
-    padding: 5px;
+    /* padding: 5px; */
     height: max-content;
 }
 
@@ -37,6 +37,7 @@ body{
     height: 79px;
     margin: 10px;
     width: 72px;
-    border: 1px solid rgb(240, 238, 138);
+    background-color: ;
     border-radius: 10%;
+
 }
