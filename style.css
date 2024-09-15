@@ -25,6 +25,8 @@ body{
     /* border: 2px solid beige; */
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
     margin: 5px;
     margin-top: 20px;
     padding: 5px;
@@ -36,4 +38,5 @@ body{
     margin: 10px;
     width: 72px;
     border: 1px solid rgb(240, 238, 138);
+    border-radius: 10%;
 }
