@@ -23,7 +23,8 @@ body{
 
 .keypad{
     border: 2px solid beige;
-    height: 4;
+    
+    height: max-content;
 }
 
 .button{
