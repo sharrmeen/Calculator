@@ -9,12 +9,12 @@ body{
 .container{
     height: 600px;
     width: 400px;
-    border: 5px solid yellow;
+    border: 5px solid rgba(0, 81, 255, 0.671);
 }
 
 .display{
     height: 130px;
     width: max-width;
-    /* margin: 5px; */
-    border: 5px solid rgb(158, 158, 108);
+    margin: 5px;
+    border: 5px solid rgb(160, 168, 214);
 }
