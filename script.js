@@ -16,5 +16,5 @@ function divide(a,b){
     return a/b
 }
 
-const answ = divide(10,5)
+const answ = add(10,5)
 console.log("Answer"+answ)
