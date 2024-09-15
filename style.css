@@ -23,7 +23,10 @@ body{
 
 .keypad{
     border: 2px solid beige;
-    
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5px;
+    padding: 5px;
     height: max-content;
 }
 
