@@ -17,4 +17,4 @@ function divide(a,b){
 }
 
 const answ = divide(10,5)
-console.log(answ)
+console.log("Answer"+answ)
