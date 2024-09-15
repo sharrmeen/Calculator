@@ -9,7 +9,7 @@ body{
 .container{
     height: 600px;
     width: 400px;
-    border: 5px solid rgb(162, 214, 221);
+    border: 5px solid yellow;
 }
 
 .display{
