@@ -4,9 +4,10 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: rgb(0, 0, 0);
 }
 .container{
     height: 600px;
     width: 400px;
-    border: 2px solid rgb(130, 238, 229);
+    border: 5px solid rgb(162, 214, 221);
 }
