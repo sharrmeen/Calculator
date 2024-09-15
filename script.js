@@ -12,6 +12,9 @@ function multiply(a,b){
 
 function divide(a,b){
     if(b===0)
-        return ""
+        return "Nice Try"
     return a/b
 }
+
+const answ = divide(10,5)
+console.log(answ)
